@@ -13,7 +13,7 @@ namespace eTickets.Models
 
         public string Logo { get; set; }
         public string Name { get; set; }
-        public string Descriptoin  { get; set; }
+        public string Description  { get; set; }
 
         //Relationships
 
