@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eTickets.Data.Base;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace eTickets.Models
 {
-    public class Producer
+    public class Producer:IEntityBase
     {
         [Key]
         public int Id { get; set; }
