@@ -88,3 +88,11 @@ C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\e
 C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
 C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
 C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\Admin\source\repos\resume-Vigan-Mustafa\resume-Vigan-Mustafa\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
